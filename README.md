@@ -66,7 +66,7 @@ git clone https://github.com/DavidHDev/react-bits.git .
 #### Install Dependencies
 
 ```sh
-npm install
+npm i
 ```
 
 #### Start The Development Server
